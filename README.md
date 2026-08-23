@@ -1,5 +1,5 @@
 <h2>
-	<span>meuAmigoConsultorFinanceiro 💜</span>
+	<span>Meu Amigo Consultor Financeiro 💜</span>
 	<img align="right" alt="Stars" src="https://img.shields.io/github/stars/carlosamcosta">
 	<img align="right" alt="Followers" src="https://img.shields.io/github/followers/carlosamcosta?style=social">
 </h2>
@@ -10,11 +10,15 @@ Repositório desenvolvido para fins didáticos, com a disponibilização de mate
 ... em um projeto no Github da Digital Innovation One.
 
 ## Objetivo
+
 Desenvolvimento de um Consultor Financeiro que auxiliar na aprendizagem e gerenciamento do dinheiro com inteligência como uso do NotebookLM.
+
 Para auxiliar em questões de organização do orçamento para resolver problemas, ou no planejamento para aquisição de algum de bens ou outro.
 
 ##Ferramentas
-![NotebookLM](https://notebook.google.com/?utm_source=app_launcher&utm_medium=referral&authuser=1)
+
+[![made-with-NotebookLM-doc](https://img.shields.io/badge/Made%20with-Sphinx-1f425f.svg)](https://notebook.google.com/)
+
 
 ##Desafio: Propfile README
 
