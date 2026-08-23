@@ -16,3 +16,10 @@ Instruções
 02 	Inclução das 
 03	
 04	
+
+
+Material para aprendizagem
+Na pasta compartilhada no Drive contem os arquivos em pdf para treinamento.
+https://drive.google.com/drive/folders/1mmx8ED32ufYGQqJMTgMYm5AfRF8iM1Fs?usp=sharing
+
+
