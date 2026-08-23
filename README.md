@@ -3,7 +3,7 @@
 Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio para o lab ...
 ... em um projeto no Github da Digital Innovation One.
 
-## Objetivo
+## Objetivo 
 Desenvolvimento de um Consultor Financeiro que auxiliar na aprendizagem e gerenciamento do dinheiro com inteligência como uso do NotebookLM.
 
 ##Ferramentas
