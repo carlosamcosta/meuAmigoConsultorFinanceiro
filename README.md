@@ -7,18 +7,19 @@
 
 # 
 
-Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio para o lab ...
-... em um projeto no Github da Digital Innovation One.
+Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio para o lab  
+ em um projeto no Github da [Digital Innovation One](https://web.dio.me/home).
+
+
 
 ## Objetivo
 
 Desenvolvimento de um Consultor Financeiro que auxiliar na aprendizagem e gerenciamento do dinheiro com inteligência como uso do NotebookLM.
-
 Para auxiliar em questões de organização do orçamento para resolver problemas, ou no planejamento para aquisição de algum de bens ou outro.
 
 ##Ferramentas
 
-[![made-with-NotebookLM-doc](https://www.iar.unicamp.br/wp-content/uploads/2026/04/Notebook-LM-Ai-Logo-PNG-SVG-Vector-300x300-1.png)](https://notebook.google.com/)
+[![made-with-NotebookLM-doc](https://drive.google.com/file/d/1YXS-jxvLOZbLRLwJCffdocAAMQnymwwv/view?usp=drive_link)](https://notebook.google.com/)
 
 
 ##Desafio: Propfile README
@@ -33,41 +34,39 @@ Para auxiliar em questões de organização do orçamento para resolver problema
 
 
 ##Material para aprendizagem
+
 Na pasta compartilhada no Drive contem os arquivos em pdf para treinamento.
 
 Folder 	https://drive.google.com/drive/folders/1mmx8ED32ufYGQqJMTgMYm5AfRF8iM1Fs?usp=sharing
 
 Nele está contidos os seguintes arquivos:
-- Apostila 04.pdf
-	Arquivo disponibilizado pelo portal Gov.br do programa bem estar financeiro.  (https://www.gov.br/investidor/pt-br/educacional/programa-bem-estar-financeiro/programa-bem-estar-financeiro-arquivos/apostila-04.pdf/@@display-file/file)
-- caderno_cidadania_financeira.pdf
-	Arquivo disponibilizado pelo portal BCB do programa Cuidando do seu dinheiro Gestão de Financas Pessoais. (https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf) 
-- Como Organizar Sua Vida Financeira Inteligência Financeira Pessoal na Prática (Gustavo Cerbasi).pdf
-	E-book do autor Gustavo Cerbasi(https://pt.1lib.sk/s/gustavo%20cerbasi) 
-- fora-da-curva-2-bartunekpdf_compress.pdf
-	E-book "Fora da curva 2": Mais investidores incríveis revelam seus segredos — e você pode aprender com eles é um livro publicado em 2020 pela Editora Portfolio-Penguin (organizado por Florian Bartunek, Giuliana Napolitano e Pierre Moreau). A obra reúne depoimentos de 13 grandes nomes do mercado financeiro e do empreendedorismo brasileiro sobre suas trajetórias, erros e estratégias. (https://pt.1lib.sk/s/Fora%20da%20curva)
-- fora-da-curva-pierre-moreau_compress.pdf
-	E-book "Fora da Curva: Os segredos dos grandes investidores do Brasil — e o que você pode aprender com eles" é uma das obras mais influentes sobre o mercado financeiro nacional, organizada pelo gestor Florian Bartunek, pelo advogado Pierre Moreau e pela jornalista Giuliana Napolitano. A obra reúne depoimentos e estratégias práticas de grandes nomes que moldaram o mercado de capitais brasileiro. (https://pt.1lib.sk/s/Fora%20da%20curva)
-- pai-rico-pai-pobre-ediao-de-20.pdf
-	E-book "Pai Rico, Pai Pobre", de Robert Kiyosaki, é um dos livros de finanças pessoais mais vendidos do mundo. A obra contrasta a mentalidade de dois pais para explicar como alcançar a independência financeira.(https://pt.1lib.sk/s/Robert%20Kiyosaki) 
 
- 
+- **Apostila 04.pdf
+Arquivo disponibilizado pelo portal Gov.br do programa bem estar financeiro.  (https://www.gov.br/investidor/pt-br/educacional/programa-bem-estar-financeiro/programa-bem-estar-financeiro-arquivos/apostila-04.pdf/@@display-file/file)*
+- **caderno_cidadania_financeira.pdf
+	*- Arquivo disponibilizado pelo portal BCB do programa Cuidando do seu dinheiro Gestão de Financas Pessoais. (https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf)
+- **Como Organizar Sua Vida Financeira Inteligência Financeira Pessoal na Prática (Gustavo Cerbasi).pdf
+	*- E-book do autor Gustavo Cerbasi(https://pt.1lib.sk/s/gustavo%20cerbasi)
+- **fora-da-curva-2-bartunekpdf_compress.pdf
+	*- E-book "Fora da curva 2": Mais investidores incríveis revelam seus segredos — e você pode aprender com eles é um livro publicado em 2020 pela Editora Portfolio-Penguin (organizado por Florian Bartunek, Giuliana Napolitano e Pierre Moreau). A obra reúne depoimentos de 13 grandes nomes do mercado financeiro e do empreendedorismo brasileiro sobre suas trajetórias, erros e estratégias. (https://pt.1lib.sk/s/Fora%20da%20curva)
+- **fora-da-curva-pierre-moreau_compress.pdf
+	*- E-book "Fora da Curva: Os segredos dos grandes investidores do Brasil — e o que você pode aprender com eles" é uma das obras mais influentes sobre o mercado financeiro nacional, organizada pelo gestor Florian Bartunek, pelo advogado Pierre Moreau e pela jornalista Giuliana Napolitano. A obra reúne depoimentos e estratégias práticas de grandes nomes que moldaram o mercado de capitais brasileiro. (https://pt.1lib.sk/s/Fora%20da%20curva)
+- **pai-rico-pai-pobre-ediao-de-20.pdf
+	*- E-book "Pai Rico, Pai Pobre", de Robert Kiyosaki, é um dos livros de finanças pessoais mais vendidos do mundo. A obra contrasta a mentalidade de dois pais para explicar como alcançar a independência financeira.(https://pt.1lib.sk/s/Robert%20Kiyosaki)
 
+------
 
-
-
-
-
+------
+  
 ##Prompts testados
-------
-------
-01 Organizar o orçamento doméstico e planejar a aquisição de um automóvel novo são passos fundamentais para garantir a estabilidade e o crescimento do patrimônio familiar. Estruturar as finanças de forma inteligente permite que os sonhos sejam tirados do papel e transformados em projetos realizáveis, sem comprometer a segurança do presente. 
 
+------
+###01 Prompt: Como organizar um orçamento doméstico e definir metas de adquirir um automóvel novo? organize em tópicos
+
+Organizar o orçamento doméstico e planejar a aquisição de um automóvel novo são passos fundamentais para garantir a estabilidade e o crescimento do patrimônio familiar. Estruturar as finanças de forma inteligente permite que os sonhos sejam tirados do papel e transformados em projetos realizáveis, sem comprometer a segurança do presente. 
 Abaixo, o processo está organizado em tópicos práticos detalhando o orçamento doméstico e a estratégia de metas para a compra do carro.
 
----
-
-### **1. Como Organizar o Orçamento Doméstico**
+**1. Como Organizar o Orçamento Doméstico
 
 O orçamento familiar deve ser visto como uma ferramenta viva de planejamento que ajuda a manter as **despesas menores do que as receitas**, gerando superávits para poupança e investimentos.
 
@@ -84,7 +83,7 @@ O orçamento familiar deve ser visto como uma ferramenta viva de planejamento qu
 
 ---
 
-### **2. Como Definir Metas para Adquirir um Automóvel Novo**
+ **2. Como Definir Metas para Adquirir um Automóvel Novo
 
 A compra de um automóvel exige a transformação de um sonho (que é abstrato) em um **projeto prático**, com prazos e valores bem delimitados.
 
@@ -106,9 +105,9 @@ A compra de um automóvel exige a transformação de um sonho (que é abstrato) 
 
 📊 **Dica de Próximo Passo:** Eu posso ajudar a simular o acúmulo de recursos para a compra do veículo à vista, calculando o valor exato que você precisaria poupar mensalmente de acordo com diferentes prazos e taxas de rendimento líquido dos investimentos conservadores. Quer que eu faça essa simulação para você?
 
+
 ------
-------
-02 Me de dicas de investimentos em que posso fazer mesmo tendo um orçamentos apertado? liste em tópicos
+###02 Prompt: Me de dicas de investimentos em que posso fazer mesmo tendo um orçamentos apertado? liste em tópicos
 
 Investir com um orçamento apertado é perfeitamente possível e exige, antes de tudo, disciplina, foco e a mudança de pequenos hábitos diários. Veja as principais recomendações para começar a multiplicar seu dinheiro mesmo com poucos recursos:
 
@@ -116,7 +115,7 @@ Investir com um orçamento apertado é perfeitamente possível e exige, antes de
 *   **Adote a regra do "Pague-se Primeiro":** Um erro muito comum é tentar poupar apenas o que sobra no fim do mês, o que se mostra uma estratégia pouco efetiva. Em vez disso, assuma o compromisso de separar e aplicar entre **10% e 20% de seus ganhos mensais logo no momento em que receber sua renda**. Force a si mesmo a viver com os 80% a 90% restantes.
 *   **Automatize a sua poupança:** Para evitar o esquecimento ou a tentação de consumir o dinheiro poupado, automatize seus investimentos por meio de **débito automático em conta ou de aplicações pré-agendadas** logo na data em que seu salário ou receita for depositado.
 *   **Comece pequeno e com consistência:** Não adie seus investimentos esperando acumular uma grande quantia ou achar a "oportunidade perfeita", pois isso é uma ilusão. São necessários apenas alguns poucos recursos iniciais para começar a plantar as sementes na sua coluna de ativos. Por exemplo, poupar e investir uma quantia constante de **apenas R\$ 150 por mês** de forma regular ao longo da juventude pode se transformar em um patrimônio de quase R\$ 150 mil no longo prazo graças ao poder multiplicador dos juros compostos.
-*   **Foque em construir ativos e evite futilidades:** Entenda com clareza a diferença entre ativos (que colocam dinheiro no seu bolso, como aplicações financeiras) e passivos (que tiram dinheiro de você, como contas e prestações). Direcione suas economias estritamente para a aquisição de ativos geradores de renda em vez de comprar futilidades ou supérfluos a prazo que se desvalorizam logo após a compra (como carros novos ou eletrônicos).
+*   **Foque em 2onstruir ativos e evite futilidades:** Entenda com clareza a diferença entre ativos (que colocam dinheiro no seu bolso, como aplicações financeiras) e passivos (que tiram dinheiro de você, como contas e prestações). Direcione suas economias estritamente para a aquisição de ativos geradores de renda em vez de comprar futilidades ou supérfluos a prazo que se desvalorizam logo após a compra (como carros novos ou eletrônicos).
 *   **Prefira investimentos acessíveis e de baixo risco:** Para quem tem um orçamento apertado, as melhores alternativas iniciais são aquelas que oferecem segurança e alta liquidez. Comece investindo em **títulos públicos (como o Tesouro Selic)** através do Tesouro Direto, na **caderneta de poupança** ou em **fundos de curto prazo e fundos de renda fixa**.
 *   **Tenha paciência e foco no longo prazo:** Evite a ilusão de enriquecimento rápido ou de realizar operações ativas de curto prazo (trading), pois esse caminho é altamente arriscado e costuma gerar perdas para investidores não profissionais. O investimento em ações ou renda fixa funciona como uma estrada acidentada; o segredo é manter a disciplina, não desistir no meio do caminho diante das oscilações de mercado e dar tempo para os investimentos amadurecerem.
 
@@ -126,11 +125,35 @@ Investir com um orçamento apertado é perfeitamente possível e exige, antes de
 
 ------
 ------
+##Miniguia
+
+	**Neste lab podemos conhecer a ferramenta NotebookLM, uma inteligência artificial que pode ser personalizada para o assunto foco.
+
+###Resumo
+
+	- Neste estudo focamos o aprendizado no NotebookLM é um assistente de inteligência artificial do Google baseado em suas próprias fontes de dados. 
+	- Isso é realizado acessando e gerenciando o sistema de forma prática, você basta abrir diretamente a plataforma oficial do Google NotebookLM em sua conta de navegador.
+	- Etapa seguinte é fornecer as fontes de dados que podem ser aquivos pdf, videos, audios, imagens, entre outros.
+	- Após basta redigir os prompts/questões para obter as saídas/respostas criando um ambiente de estudo e pesquisa personalizado.
+	- É possivel gerando resumos, apresentações, relatórios, guias, videos e áudios com saídas/respostas obtidas.
+
+###Glossário
+
+	- Aterramento (Grounding): O princípio de funcionamento em que a IA responde estritamente com base nas fontes fornecidas, evitando inventar dados.
+	- Ancoragem (Grounding): Mecanismo de segurança que limita as respostas da IA apenas ao conteúdo das fontes enviadas, evitando dados inventados.
+	- Descobrir Fontes via Deep Research: Agente inteligente que realiza pesquisas autônomas e profundas na web sobre um tema inicial. Ele localiza, avalia e importa as melhores fontes de alta qualidade direto para o seu caderno em minutos.
+	- Fonte (Source): Arquivo ou link enviado para o painel. Aceita até 50 itens por projeto, como PDFs, textos, sites, vídeos do YouTube ou áudios MP3.
+	- Guia de Estudos (Study Guide): O formato gerado pelo estúdio que cria perguntas de revisão, testes e termos-chave.
+	- Mapa Mental: A representação visual gerada pela IA que organiza os principais temas do caderno e suas conexões hierárquicas.
+	- Resumo em Áudio (Audio Overview): O recurso que converte as suas fontes em uma conversa em áudio no estilo de podcast com apresentadores virtuais.
+	- Vídeo Explicativo Cinematográfico (Cinematic Video Overview): Recurso avançado que transforma o material de estudo em um formato de vídeo educativo de alta qualidade, estruturado com slides e narração personalizada por inteligência artificial.
 
 
-### 📔 Free Study Material
-- [🇧🇷 Jornada Gamificada de Git e GitHub](https://elidianaandrade.gitbook.io/learning-quest/git-and-github/)
+###Conjunto de prompts reutilizáveis para apoio em revisões futuras
 
-##
+	*- Faça uma simulação de investimento no Tesouro Selic
+	*- Como calcular meu custo de vida?
+	*- Explique a regra do Pague-se Primeiro e como implementa-la
+
 
 Obrigado pela visita — boa programação! 😊
