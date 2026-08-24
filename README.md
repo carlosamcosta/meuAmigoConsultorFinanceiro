@@ -6,19 +6,19 @@
 </h2>
 
 
-	Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio para o lab.  
-	Um projeto no Github da [Digital Innovation One](https://web.dio.me/home).
+Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio para o lab.  
+Um projeto no Github da [Digital Innovation One](https://web.dio.me/home).
 
 
 
 ## Objetivo
 
-	Desenvolvimento de um Consultor Financeiro que auxiliar na aprendizagem e gerenciamento do dinheiro com inteligência como uso do NotebookLM.
-	Para auxiliar em questões de organização do orçamento para resolver problemas, ou no planejamento para aquisição de algum de bens ou outro.
+Desenvolvimento de um Consultor Financeiro que auxiliar na aprendizagem e gerenciamento do dinheiro com inteligência como uso do NotebookLM.
+Para auxiliar em questões de organização do orçamento para resolver problemas, ou no planejamento para aquisição de algum de bens ou outro.
 
 ## Ferramentas
 
-[![made-with-NotebookLM-doc](https://notebook.google.com/)
+[made-with-NotebookLM-doc](https://notebook.google.com/)
 
 
 ## Desafio: Propfile README
@@ -127,33 +127,34 @@ Investir com um orçamento apertado é perfeitamente possível e exige, antes de
 
 ## Miniguia
 
-	Neste lab podemos conhecer a ferramenta NotebookLM, uma inteligência artificial que pode ser personalizada para o assunto foco.
+Neste lab podemos conhecer a ferramenta NotebookLM, uma inteligência artificial que pode ser personalizada para o assunto foco.
+
 
 ### Resumo
 
-	- Neste estudo focamos o aprendizado no NotebookLM é um assistente de inteligência artificial do Google baseado em suas próprias fontes de dados. 
-	- Isso é realizado acessando e gerenciando o sistema de forma prática, você basta abrir diretamente a plataforma oficial do Google NotebookLM em sua conta de navegador.
-	- Etapa seguinte é fornecer as fontes de dados que podem ser aquivos pdf, videos, audios, imagens, entre outros.
-	- Após basta redigir os prompts/questões para obter as saídas/respostas criando um ambiente de estudo e pesquisa personalizado.
-	- É possivel gerando resumos, apresentações, relatórios, guias, videos e áudios com saídas/respostas obtidas.
+- Neste estudo focamos o aprendizado no NotebookLM é um assistente de inteligência artificial do Google baseado em suas próprias fontes de dados. 
+- Isso é realizado acessando e gerenciando o sistema de forma prática, você basta abrir diretamente a plataforma oficial do Google NotebookLM em sua conta de navegador.
+- Etapa seguinte é fornecer as fontes de dados que podem ser aquivos pdf, videos, audios, imagens, entre outros.
+- Após basta redigir os prompts/questões para obter as saídas/respostas criando um ambiente de estudo e pesquisa personalizado.
+- É possivel gerando resumos, apresentações, relatórios, guias, videos e áudios com saídas/respostas obtidas.
 
 ### Glossário
 
-	- Aterramento (Grounding): O princípio de funcionamento em que a IA responde estritamente com base nas fontes fornecidas, evitando inventar dados.
-	- Ancoragem (Grounding): Mecanismo de segurança que limita as respostas da IA apenas ao conteúdo das fontes enviadas, evitando dados inventados.
-	- Descobrir Fontes via Deep Research: Agente inteligente que realiza pesquisas autônomas e profundas na web sobre um tema inicial. Ele localiza, avalia e importa as melhores fontes de alta qualidade direto para o seu caderno em minutos.
-	- Fonte (Source): Arquivo ou link enviado para o painel. Aceita até 50 itens por projeto, como PDFs, textos, sites, vídeos do YouTube ou áudios MP3.
-	- Guia de Estudos (Study Guide): O formato gerado pelo estúdio que cria perguntas de revisão, testes e termos-chave.
-	- Mapa Mental: A representação visual gerada pela IA que organiza os principais temas do caderno e suas conexões hierárquicas.
-	- Resumo em Áudio (Audio Overview): O recurso que converte as suas fontes em uma conversa em áudio no estilo de podcast com apresentadores virtuais.
-	- Vídeo Explicativo Cinematográfico (Cinematic Video Overview): Recurso avançado que transforma o material de estudo em um formato de vídeo educativo de alta qualidade, estruturado com slides e narração personalizada por inteligência artificial.
+- Aterramento (Grounding): O princípio de funcionamento em que a IA responde estritamente com base nas fontes fornecidas, evitando inventar dados.
+- Ancoragem (Grounding): Mecanismo de segurança que limita as respostas da IA apenas ao conteúdo das fontes enviadas, evitando dados inventados.
+- Descobrir Fontes via Deep Research: Agente inteligente que realiza pesquisas autônomas e profundas na web sobre um tema inicial. Ele localiza, avalia e importa as melhores fontes de alta qualidade direto para o seu caderno em minutos.
+- Fonte (Source): Arquivo ou link enviado para o painel. Aceita até 50 itens por projeto, como PDFs, textos, sites, vídeos do YouTube ou áudios MP3.
+- Guia de Estudos (Study Guide): O formato gerado pelo estúdio que cria perguntas de revisão, testes e termos-chave.
+- Mapa Mental: A representação visual gerada pela IA que organiza os principais temas do caderno e suas conexões hierárquicas.
+- Resumo em Áudio (Audio Overview): O recurso que converte as suas fontes em uma conversa em áudio no estilo de podcast com apresentadores virtuais.
+- Vídeo Explicativo Cinematográfico (Cinematic Video Overview): Recurso avançado que transforma o material de estudo em um formato de vídeo educativo de alta qualidade, estruturado com slides e narração personalizada por inteligência artificial.
 
 
 ### Conjunto de prompts reutilizáveis para apoio em revisões futuras
 
-	* - Faça uma simulação de investimento no Tesouro Selic
-	* - Como calcular meu custo de vida?
-	* - Explique a regra do Pague-se Primeiro e como implementa-la
+* - Faça uma simulação de investimento no Tesouro Selic
+* - Como calcular meu custo de vida?
+* - Explique a regra do Pague-se Primeiro e como implementa-la
 
 ------
 ------
