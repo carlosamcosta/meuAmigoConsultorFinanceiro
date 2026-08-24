@@ -65,7 +65,7 @@ Nele está contidos os seguintes arquivos:
 Organizar o orçamento doméstico e planejar a aquisição de um automóvel novo são passos fundamentais para garantir a estabilidade e o crescimento do patrimônio familiar. Estruturar as finanças de forma inteligente permite que os sonhos sejam tirados do papel e transformados em projetos realizáveis, sem comprometer a segurança do presente. 
 Abaixo, o processo está organizado em tópicos práticos detalhando o orçamento doméstico e a estratégia de metas para a compra do carro.
 
-** 1. Como Organizar o Orçamento Doméstico
+1. Como Organizar o Orçamento Doméstico
 
 O orçamento familiar deve ser visto como uma ferramenta viva de planejamento que ajuda a manter as **despesas menores do que as receitas**, gerando superávits para poupança e investimentos.
 
@@ -80,9 +80,7 @@ O orçamento familiar deve ser visto como uma ferramenta viva de planejamento qu
 *   **Construa a Reserva de Emergências:** Antes de focar na compra do carro, concentre toda a sua capacidade de poupança na criação de um colchão de segurança. Acumule o equivalente a **6 a 12 meses do custo de vida familiar** (ou de 12 a 20 meses se você for autônomo, profissional liberal ou tiver baixa empregabilidade). Esse dinheiro deve ser mantido em aplicações de **baixo risco e alta liquidez imediata** para saques rápidos e sem perdas.
 *   **Envolva Toda a Família:** O sucesso do planejamento orçamentário exige a parceria de todos. Em vez de impor limites de gastos, utilize o método de **buscar limites em conjunto**, estimulando os filhos e o cônjuge a debaterem e definirem prioridades e sonhos comuns.
 
----
-
-** 2. Como Definir Metas para Adquirir um Automóvel Novo
+2. Como Definir Metas para Adquirir um Automóvel Novo
 
 A compra de um automóvel exige a transformação de um sonho (que é abstrato) em um **projeto prático**, com prazos e valores bem delimitados.
 
@@ -104,8 +102,8 @@ A compra de um automóvel exige a transformação de um sonho (que é abstrato) 
 
 📊 **Dica de Próximo Passo:** Eu posso ajudar a simular o acúmulo de recursos para a compra do veículo à vista, calculando o valor exato que você precisaria poupar mensalmente de acordo com diferentes prazos e taxas de rendimento líquido dos investimentos conservadores. Quer que eu faça essa simulação para você?
 
-
 ------
+
 ### 02 Prompt: Me de dicas de investimentos em que posso fazer mesmo tendo um orçamentos apertado? liste em tópicos
 
 Investir com um orçamento apertado é perfeitamente possível e exige, antes de tudo, disciplina, foco e a mudança de pequenos hábitos diários. Veja as principais recomendações para começar a multiplicar seu dinheiro mesmo com poucos recursos:
@@ -118,11 +116,9 @@ Investir com um orçamento apertado é perfeitamente possível e exige, antes de
 *   **Prefira investimentos acessíveis e de baixo risco:** Para quem tem um orçamento apertado, as melhores alternativas iniciais são aquelas que oferecem segurança e alta liquidez. Comece investindo em **títulos públicos (como o Tesouro Selic)** através do Tesouro Direto, na **caderneta de poupança** ou em **fundos de curto prazo e fundos de renda fixa**.
 *   **Tenha paciência e foco no longo prazo:** Evite a ilusão de enriquecimento rápido ou de realizar operações ativas de curto prazo (trading), pois esse caminho é altamente arriscado e costuma gerar perdas para investidores não profissionais. O investimento em ações ou renda fixa funciona como uma estrada acidentada; o segredo é manter a disciplina, não desistir no meio do caminho diante das oscilações de mercado e dar tempo para os investimentos amadurecerem.
 
----
 
 📈 Se você quiser, posso fazer uma simulação prática detalhada mostrando como pequenos aportes mensais de R\$ 50, R\$ 100 ou R\$ 150 se comportam ao longo do tempo se aplicados no Tesouro Selic ou em outros títulos públicos de baixo risco. Deseja que eu elabore esse cálculo para você?
 
-------
 ------
 
 ## Miniguia
@@ -152,9 +148,9 @@ Neste lab podemos conhecer a ferramenta NotebookLM, uma inteligência artificial
 
 ### Conjunto de prompts reutilizáveis para apoio em revisões futuras
 
-* - Faça uma simulação de investimento no Tesouro Selic
-* - Como calcular meu custo de vida?
-* - Explique a regra do Pague-se Primeiro e como implementa-la
+* Faça uma simulação de investimento no Tesouro Selic
+* Como calcular meu custo de vida?
+* Explique a regra do Pague-se Primeiro e como implementa-la
 
 ------
 ------
