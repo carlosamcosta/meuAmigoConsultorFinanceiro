@@ -5,44 +5,43 @@
 	<img align="left" alt="Followers" src="https://img.shields.io/github/followers/carlosamcosta?style=social">
 </h2>
 
-# 
 
-Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio para o lab  
- em um projeto no Github da [Digital Innovation One](https://web.dio.me/home).
-
+**Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio para o lab.  
+**Um projeto no Github da [Digital Innovation One](https://web.dio.me/home).
 
 
-## Objetivo
 
-Desenvolvimento de um Consultor Financeiro que auxiliar na aprendizagem e gerenciamento do dinheiro com inteligência como uso do NotebookLM.
-Para auxiliar em questões de organização do orçamento para resolver problemas, ou no planejamento para aquisição de algum de bens ou outro.
+## **Objetivo
 
-##Ferramentas
+**Desenvolvimento de um Consultor Financeiro que auxiliar na aprendizagem e gerenciamento do dinheiro com inteligência como uso do NotebookLM.
+**Para auxiliar em questões de organização do orçamento para resolver problemas, ou no planejamento para aquisição de algum de bens ou outro.
+
+## **Ferramentas
 
 [![made-with-NotebookLM-doc](https://drive.google.com/file/d/1YXS-jxvLOZbLRLwJCffdocAAMQnymwwv/view?usp=drive_link)](https://notebook.google.com/)
 
 
-##Desafio: Propfile README
+## Desafio: Propfile README
+
+### Instruções
+
+	01 	Criação de projeto no NotebookLM
+	02 	Inclusão dos arquivos em pdf para treinamento
+	03	Testar o modelos com prompts	
+	04	Documentar os mesmos com suas respectivas saídas/respostas
 
 
-##Instruções
-01 	Criação de projeto no NotebookLM
-02 	Inclusão dos arquivos em pdf para treinamento
-03	Testar o modelos com prompts
-04	Documentar os mesmos com suas respectivas saídas/respostas
 
+## Material para aprendizagem
 
+**Na pasta compartilhada no Drive contem os arquivos em pdf para treinamento.
 
-##Material para aprendizagem
+**Folder 	https://drive.google.com/drive/folders/1mmx8ED32ufYGQqJMTgMYm5AfRF8iM1Fs?usp=sharing
 
-Na pasta compartilhada no Drive contem os arquivos em pdf para treinamento.
-
-Folder 	https://drive.google.com/drive/folders/1mmx8ED32ufYGQqJMTgMYm5AfRF8iM1Fs?usp=sharing
-
-Nele está contidos os seguintes arquivos:
+**Nele está contidos os seguintes arquivos:
 
 - **Apostila 04.pdf
-Arquivo disponibilizado pelo portal Gov.br do programa bem estar financeiro.  (https://www.gov.br/investidor/pt-br/educacional/programa-bem-estar-financeiro/programa-bem-estar-financeiro-arquivos/apostila-04.pdf/@@display-file/file)*
+	- Arquivo disponibilizado pelo portal Gov.br do programa bem estar financeiro.  (https://www.gov.br/investidor/pt-br/educacional/programa-bem-estar-financeiro/programa-bem-estar-financeiro-arquivos/apostila-04.pdf/@@display-file/file)*
 - **caderno_cidadania_financeira.pdf
 	*- Arquivo disponibilizado pelo portal BCB do programa Cuidando do seu dinheiro Gestão de Financas Pessoais. (https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf)
 - **Como Organizar Sua Vida Financeira Inteligência Financeira Pessoal na Prática (Gustavo Cerbasi).pdf
@@ -58,15 +57,15 @@ Arquivo disponibilizado pelo portal Gov.br do programa bem estar financeiro.  (h
 
 ------
   
-##Prompts testados
+## Prompts testados
 
 ------
-###01 Prompt: Como organizar um orçamento doméstico e definir metas de adquirir um automóvel novo? organize em tópicos
+### 01 Prompt: Como organizar um orçamento doméstico e definir metas de adquirir um automóvel novo? organize em tópicos
 
 Organizar o orçamento doméstico e planejar a aquisição de um automóvel novo são passos fundamentais para garantir a estabilidade e o crescimento do patrimônio familiar. Estruturar as finanças de forma inteligente permite que os sonhos sejam tirados do papel e transformados em projetos realizáveis, sem comprometer a segurança do presente. 
 Abaixo, o processo está organizado em tópicos práticos detalhando o orçamento doméstico e a estratégia de metas para a compra do carro.
 
-**1. Como Organizar o Orçamento Doméstico
+** 1. Como Organizar o Orçamento Doméstico
 
 O orçamento familiar deve ser visto como uma ferramenta viva de planejamento que ajuda a manter as **despesas menores do que as receitas**, gerando superávits para poupança e investimentos.
 
@@ -83,7 +82,7 @@ O orçamento familiar deve ser visto como uma ferramenta viva de planejamento qu
 
 ---
 
- **2. Como Definir Metas para Adquirir um Automóvel Novo
+** 2. Como Definir Metas para Adquirir um Automóvel Novo
 
 A compra de um automóvel exige a transformação de um sonho (que é abstrato) em um **projeto prático**, com prazos e valores bem delimitados.
 
@@ -107,7 +106,7 @@ A compra de um automóvel exige a transformação de um sonho (que é abstrato) 
 
 
 ------
-###02 Prompt: Me de dicas de investimentos em que posso fazer mesmo tendo um orçamentos apertado? liste em tópicos
+### 02 Prompt: Me de dicas de investimentos em que posso fazer mesmo tendo um orçamentos apertado? liste em tópicos
 
 Investir com um orçamento apertado é perfeitamente possível e exige, antes de tudo, disciplina, foco e a mudança de pequenos hábitos diários. Veja as principais recomendações para começar a multiplicar seu dinheiro mesmo com poucos recursos:
 
@@ -125,11 +124,12 @@ Investir com um orçamento apertado é perfeitamente possível e exige, antes de
 
 ------
 ------
-##Miniguia
+
+## Miniguia
 
 	**Neste lab podemos conhecer a ferramenta NotebookLM, uma inteligência artificial que pode ser personalizada para o assunto foco.
 
-###Resumo
+### Resumo
 
 	- Neste estudo focamos o aprendizado no NotebookLM é um assistente de inteligência artificial do Google baseado em suas próprias fontes de dados. 
 	- Isso é realizado acessando e gerenciando o sistema de forma prática, você basta abrir diretamente a plataforma oficial do Google NotebookLM em sua conta de navegador.
@@ -137,7 +137,7 @@ Investir com um orçamento apertado é perfeitamente possível e exige, antes de
 	- Após basta redigir os prompts/questões para obter as saídas/respostas criando um ambiente de estudo e pesquisa personalizado.
 	- É possivel gerando resumos, apresentações, relatórios, guias, videos e áudios com saídas/respostas obtidas.
 
-###Glossário
+### Glossário
 
 	- Aterramento (Grounding): O princípio de funcionamento em que a IA responde estritamente com base nas fontes fornecidas, evitando inventar dados.
 	- Ancoragem (Grounding): Mecanismo de segurança que limita as respostas da IA apenas ao conteúdo das fontes enviadas, evitando dados inventados.
@@ -149,11 +149,13 @@ Investir com um orçamento apertado é perfeitamente possível e exige, antes de
 	- Vídeo Explicativo Cinematográfico (Cinematic Video Overview): Recurso avançado que transforma o material de estudo em um formato de vídeo educativo de alta qualidade, estruturado com slides e narração personalizada por inteligência artificial.
 
 
-###Conjunto de prompts reutilizáveis para apoio em revisões futuras
+### Conjunto de prompts reutilizáveis para apoio em revisões futuras
 
 	*- Faça uma simulação de investimento no Tesouro Selic
 	*- Como calcular meu custo de vida?
 	*- Explique a regra do Pague-se Primeiro e como implementa-la
 
+------
+------
 
 Obrigado pela visita — boa programação! 😊
