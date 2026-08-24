@@ -6,19 +6,19 @@
 </h2>
 
 
-** Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio para o lab.  
-** Um projeto no Github da [Digital Innovation One](https://web.dio.me/home).
+	Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio para o lab.  
+	Um projeto no Github da [Digital Innovation One](https://web.dio.me/home).
 
 
 
 ## Objetivo
 
-** Desenvolvimento de um Consultor Financeiro que auxiliar na aprendizagem e gerenciamento do dinheiro com inteligência como uso do NotebookLM.
-** Para auxiliar em questões de organização do orçamento para resolver problemas, ou no planejamento para aquisição de algum de bens ou outro.
+	Desenvolvimento de um Consultor Financeiro que auxiliar na aprendizagem e gerenciamento do dinheiro com inteligência como uso do NotebookLM.
+	Para auxiliar em questões de organização do orçamento para resolver problemas, ou no planejamento para aquisição de algum de bens ou outro.
 
 ## Ferramentas
 
-[![made-with-NotebookLM-doc](https://drive.google.com/file/d/1YXS-jxvLOZbLRLwJCffdocAAMQnymwwv/view?usp=drive_link)](https://notebook.google.com/)
+[![made-with-NotebookLM-doc](https://notebook.google.com/)
 
 
 ## Desafio: Propfile README
@@ -40,17 +40,17 @@ Folder 	https://drive.google.com/drive/folders/1mmx8ED32ufYGQqJMTgMYm5AfRF8iM1Fs
 
 Nele está contidos os seguintes arquivos:
 
-- ** Apostila 04.pdf **
+- Apostila 04.pdf
 	- Arquivo disponibilizado pelo portal Gov.br do programa bem estar financeiro.  (https://www.gov.br/investidor/pt-br/educacional/programa-bem-estar-financeiro/programa-bem-estar-financeiro-arquivos/apostila-04.pdf/@@display-file/file)*
-- ** caderno_cidadania_financeira.pdf **
+- caderno_cidadania_financeira.pdf
 	- Arquivo disponibilizado pelo portal BCB do programa Cuidando do seu dinheiro Gestão de Financas Pessoais. (https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf)
-- ** Como Organizar Sua Vida Financeira Inteligência Financeira Pessoal na Prática (Gustavo Cerbasi).pdf **
+- Como Organizar Sua Vida Financeira Inteligência Financeira Pessoal na Prática (Gustavo Cerbasi).pdf
 	- E-book do autor Gustavo Cerbasi(https://pt.1lib.sk/s/gustavo%20cerbasi)
-- ** fora-da-curva-2-bartunekpdf_compress.pdf **
+- fora-da-curva-2-bartunekpdf_compress.pdf
 	- E-book "Fora da curva 2": Mais investidores incríveis revelam seus segredos — e você pode aprender com eles é um livro publicado em 2020 pela Editora Portfolio-Penguin (organizado por Florian Bartunek, Giuliana Napolitano e Pierre Moreau). A obra reúne depoimentos de 13 grandes nomes do mercado financeiro e do empreendedorismo brasileiro sobre suas trajetórias, erros e estratégias. (https://pt.1lib.sk/s/Fora%20da%20curva)
-- ** fora-da-curva-pierre-moreau_compress.pdf **
+- fora-da-curva-pierre-moreau_compress.pdf
 	- E-book "Fora da Curva: Os segredos dos grandes investidores do Brasil — e o que você pode aprender com eles" é uma das obras mais influentes sobre o mercado financeiro nacional, organizada pelo gestor Florian Bartunek, pelo advogado Pierre Moreau e pela jornalista Giuliana Napolitano. A obra reúne depoimentos e estratégias práticas de grandes nomes que moldaram o mercado de capitais brasileiro. (https://pt.1lib.sk/s/Fora%20da%20curva)
-- ** pai-rico-pai-pobre-ediao-de-20.pdf **
+- pai-rico-pai-pobre-ediao-de-20.pdf
 	- E-book "Pai Rico, Pai Pobre", de Robert Kiyosaki, é um dos livros de finanças pessoais mais vendidos do mundo. A obra contrasta a mentalidade de dois pais para explicar como alcançar a independência financeira.(https://pt.1lib.sk/s/Robert%20Kiyosaki)
 
 ------
@@ -127,7 +127,7 @@ Investir com um orçamento apertado é perfeitamente possível e exige, antes de
 
 ## Miniguia
 
-	**Neste lab podemos conhecer a ferramenta NotebookLM, uma inteligência artificial que pode ser personalizada para o assunto foco.
+	Neste lab podemos conhecer a ferramenta NotebookLM, uma inteligência artificial que pode ser personalizada para o assunto foco.
 
 ### Resumo
 
@@ -151,9 +151,9 @@ Investir com um orçamento apertado é perfeitamente possível e exige, antes de
 
 ### Conjunto de prompts reutilizáveis para apoio em revisões futuras
 
-	*- Faça uma simulação de investimento no Tesouro Selic
-	*- Como calcular meu custo de vida?
-	*- Explique a regra do Pague-se Primeiro e como implementa-la
+	* - Faça uma simulação de investimento no Tesouro Selic
+	* - Como calcular meu custo de vida?
+	* - Explique a regra do Pague-se Primeiro e como implementa-la
 
 ------
 ------
