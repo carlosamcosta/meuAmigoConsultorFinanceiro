@@ -1,7 +1,8 @@
 <h2>
-	<span>Meu Amigo Consultor Financeiro 💜</span>
-	<img align="right" alt="Stars" src="https://img.shields.io/github/stars/carlosamcosta">
-	<img align="right" alt="Followers" src="https://img.shields.io/github/followers/carlosamcosta?style=social">
+	<span>Meu Amigo Consultor Financeiro </span>
+	<span>by Carlos A M Costa </span>
+	<img align="left" alt="Stars" src="https://img.shields.io/github/stars/carlosamcosta">
+	<img align="left" alt="Followers" src="https://img.shields.io/github/followers/carlosamcosta?style=social">
 </h2>
 
 # 
@@ -17,7 +18,7 @@ Para auxiliar em questões de organização do orçamento para resolver problema
 
 ##Ferramentas
 
-[![made-with-NotebookLM-doc](https://img.shields.io/badge/Made%20with-Sphinx-1f425f.svg)](https://notebook.google.com/)
+[![made-with-NotebookLM-doc](https://www.iar.unicamp.br/wp-content/uploads/2026/04/Notebook-LM-Ai-Logo-PNG-SVG-Vector-300x300-1.png)](https://notebook.google.com/)
 
 
 ##Desafio: Propfile README
@@ -38,11 +39,19 @@ Folder 	https://drive.google.com/drive/folders/1mmx8ED32ufYGQqJMTgMYm5AfRF8iM1Fs
 
 Nele está contidos os seguintes arquivos:
 - Apostila 04.pdf
+	Arquivo disponibilizado pelo portal Gov.br do programa bem estar financeiro.  (https://www.gov.br/investidor/pt-br/educacional/programa-bem-estar-financeiro/programa-bem-estar-financeiro-arquivos/apostila-04.pdf/@@display-file/file)
 - caderno_cidadania_financeira.pdf
+	Arquivo disponibilizado pelo portal BCB do programa Cuidando do seu dinheiro Gestão de Financas Pessoais. (https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf) 
 - Como Organizar Sua Vida Financeira Inteligência Financeira Pessoal na Prática (Gustavo Cerbasi).pdf
+	E-book do autor Gustavo Cerbasi(https://pt.1lib.sk/s/gustavo%20cerbasi) 
 - fora-da-curva-2-bartunekpdf_compress.pdf
+	E-book "Fora da curva 2": Mais investidores incríveis revelam seus segredos — e você pode aprender com eles é um livro publicado em 2020 pela Editora Portfolio-Penguin (organizado por Florian Bartunek, Giuliana Napolitano e Pierre Moreau). A obra reúne depoimentos de 13 grandes nomes do mercado financeiro e do empreendedorismo brasileiro sobre suas trajetórias, erros e estratégias. (https://pt.1lib.sk/s/Fora%20da%20curva)
 - fora-da-curva-pierre-moreau_compress.pdf
+	E-book "Fora da Curva: Os segredos dos grandes investidores do Brasil — e o que você pode aprender com eles" é uma das obras mais influentes sobre o mercado financeiro nacional, organizada pelo gestor Florian Bartunek, pelo advogado Pierre Moreau e pela jornalista Giuliana Napolitano. A obra reúne depoimentos e estratégias práticas de grandes nomes que moldaram o mercado de capitais brasileiro. (https://pt.1lib.sk/s/Fora%20da%20curva)
 - pai-rico-pai-pobre-ediao-de-20.pdf
+	E-book "Pai Rico, Pai Pobre", de Robert Kiyosaki, é um dos livros de finanças pessoais mais vendidos do mundo. A obra contrasta a mentalidade de dois pais para explicar como alcançar a independência financeira.(https://pt.1lib.sk/s/Robert%20Kiyosaki) 
+
+ 
 
 
 
@@ -50,6 +59,7 @@ Nele está contidos os seguintes arquivos:
 
 
 ##Prompts testados
+------
 ------
 01 Organizar o orçamento doméstico e planejar a aquisição de um automóvel novo são passos fundamentais para garantir a estabilidade e o crescimento do patrimônio familiar. Estruturar as finanças de forma inteligente permite que os sonhos sejam tirados do papel e transformados em projetos realizáveis, sem comprometer a segurança do presente. 
 
@@ -93,14 +103,29 @@ A compra de um automóvel exige a transformação de um sonho (que é abstrato) 
     *   **A Regra Limite dos 36 meses:** Especialistas recomendam que financiamentos de carros **não ultrapassem 36 meses (ou 24 meses se for usado)**. O motivo é que, após 3 anos de uso, o carro exige manutenções mais caras (pneus, amortecedores, etc.). Se o seu orçamento estiver totalmente estrangulado pelas prestações do financiamento, você não conseguirá dar a manutenção adequada. Se precisar financiar, dê uma entrada robusta (pelo menos 50% do valor) e financie o restante em prazos curtos (até 24 meses).
     *   **Consórcio:** É uma modalidade matematicamente mais vantajosa que o financiamento longo por não embutir juros (apenas a taxa de administração e fundo de reserva, que costumam ser menores). Entretanto, a entrega do carro não é imediata e depende de sorteio ou da força financeira para dar lances. Caso planeje ofertar um **lance** para ser contemplado rapidamente, atente para o fato de que o percentual ofertado é calculado sobre o valor total do saldo devedor (incluindo as taxas administrativas) e não apenas sobre o valor da carta de crédito.
 
----
 
 📊 **Dica de Próximo Passo:** Eu posso ajudar a simular o acúmulo de recursos para a compra do veículo à vista, calculando o valor exato que você precisaria poupar mensalmente de acordo com diferentes prazos e taxas de rendimento líquido dos investimentos conservadores. Quer que eu faça essa simulação para você?
 
 ------
-01 Organizar
+------
+02 Me de dicas de investimentos em que posso fazer mesmo tendo um orçamentos apertado? liste em tópicos
 
-Postgrad in Software Development with Agile Methodology, and a content creator who loves sharing what I learn along the way.
+Investir com um orçamento apertado é perfeitamente possível e exige, antes de tudo, disciplina, foco e a mudança de pequenos hábitos diários. Veja as principais recomendações para começar a multiplicar seu dinheiro mesmo com poucos recursos:
+
+*   **Garimpe suas contas por sobras e mude seu padrão:** O primeiro passo indispensável para quem tem pouco dinheiro é analisar minuciosamente os gastos mensais para **"garimpar" suas contas em busca de qualquer pequena sobra de recursos**. Para viabilizar essa poupança, adote o hábito de viver um degrau abaixo, escolhendo uma estrutura de vida um pouco mais simples do que a sua renda total permitiria.
+*   **Adote a regra do "Pague-se Primeiro":** Um erro muito comum é tentar poupar apenas o que sobra no fim do mês, o que se mostra uma estratégia pouco efetiva. Em vez disso, assuma o compromisso de separar e aplicar entre **10% e 20% de seus ganhos mensais logo no momento em que receber sua renda**. Force a si mesmo a viver com os 80% a 90% restantes.
+*   **Automatize a sua poupança:** Para evitar o esquecimento ou a tentação de consumir o dinheiro poupado, automatize seus investimentos por meio de **débito automático em conta ou de aplicações pré-agendadas** logo na data em que seu salário ou receita for depositado.
+*   **Comece pequeno e com consistência:** Não adie seus investimentos esperando acumular uma grande quantia ou achar a "oportunidade perfeita", pois isso é uma ilusão. São necessários apenas alguns poucos recursos iniciais para começar a plantar as sementes na sua coluna de ativos. Por exemplo, poupar e investir uma quantia constante de **apenas R\$ 150 por mês** de forma regular ao longo da juventude pode se transformar em um patrimônio de quase R\$ 150 mil no longo prazo graças ao poder multiplicador dos juros compostos.
+*   **Foque em construir ativos e evite futilidades:** Entenda com clareza a diferença entre ativos (que colocam dinheiro no seu bolso, como aplicações financeiras) e passivos (que tiram dinheiro de você, como contas e prestações). Direcione suas economias estritamente para a aquisição de ativos geradores de renda em vez de comprar futilidades ou supérfluos a prazo que se desvalorizam logo após a compra (como carros novos ou eletrônicos).
+*   **Prefira investimentos acessíveis e de baixo risco:** Para quem tem um orçamento apertado, as melhores alternativas iniciais são aquelas que oferecem segurança e alta liquidez. Comece investindo em **títulos públicos (como o Tesouro Selic)** através do Tesouro Direto, na **caderneta de poupança** ou em **fundos de curto prazo e fundos de renda fixa**.
+*   **Tenha paciência e foco no longo prazo:** Evite a ilusão de enriquecimento rápido ou de realizar operações ativas de curto prazo (trading), pois esse caminho é altamente arriscado e costuma gerar perdas para investidores não profissionais. O investimento em ações ou renda fixa funciona como uma estrada acidentada; o segredo é manter a disciplina, não desistir no meio do caminho diante das oscilações de mercado e dar tempo para os investimentos amadurecerem.
+
+---
+
+📈 Se você quiser, posso fazer uma simulação prática detalhada mostrando como pequenos aportes mensais de R\$ 50, R\$ 100 ou R\$ 150 se comportam ao longo do tempo se aplicados no Tesouro Selic ou em outros títulos públicos de baixo risco. Deseja que eu elabore esse cálculo para você?
+
+------
+------
 
 
 ### 📔 Free Study Material
@@ -108,4 +133,4 @@ Postgrad in Software Development with Agile Methodology, and a content creator w
 
 ##
 
-Thanks for visiting — happy coding! 😊
+Obrigado pela visita — boa programação! 😊
